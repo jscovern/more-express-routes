@@ -1,0 +1,23 @@
+{
+  "name": "more-express-routes",
+  "version": "1.0.0",
+  "description": "| Objectives | | :---- | | Explain parsing URL params and using query string params | | Apply routing knowledge to build an Express application with dynamic routes | | Explain the usefulness of middleware (e.g., `body-parser`) |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscovern/more-express-routes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscovern/more-express-routes/issues"
+  },
+  "homepage": "https://github.com/jscovern/more-express-routes#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
